@@ -10,8 +10,8 @@ namespace ThreadedBinarySearchTree
     {
 
         private Node root;
-        int readerTimeOut;
-        int writerTimeOut;
+        //int readerTimeOut;
+        //int writerTimeOut;
 
 
         public ThreadedBinarySearchTree(int rTime=1000,int wTime=1000)
